@@ -33,7 +33,7 @@
 
 # CMake and build
 CMakeLists.txt.user*
-*build-*
+*build*
 
 # vscode
-*.vscode*
+#*.vscode*
